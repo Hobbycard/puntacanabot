@@ -4,10 +4,4 @@ transformers==4.30.2
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==2.0.1+cpu
 gunicorn==20.1.0
-werkzeug==2.0.1
-numpy>=1.17
-tqdm
-requests
-packaging
-filelock
-regex
+Werkzeug==2.0.3
