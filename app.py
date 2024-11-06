@@ -24,13 +24,25 @@ def init_model():
     try:
         # Cargar el modelo y tokenizer desde Hugging Face
         MODEL_PATH = "hobbycard/puntacana-bot"
-        tokenizer = RobertaTokenizer.from_pretrained(MODEL_PATH)
-        model = RobertaForSequenceClassification.from_pretrained(MODEL_PATH)
+        auth_token = os.environ.get('HUGGINGFACE_TOKEN')
+        
+        tokenizer = RobertaTokenizer.from_pretrained(
+            MODEL_PATH,
+            use_auth_token=auth_token
+        )
+        model = RobertaForSequenceClassification.from_pretrained(
+            MODEL_PATH,
+            use_auth_token=auth_token
+        )
         
         # Cargar el dataset
         with open('condostel.json', 'r', encoding='utf-8') as f:
             dataset = json.load(f)
             
+        return True
+    except Exception as e:
+        print(f"Error inicializando el modelo: {e}")
+        return False
         return True
     except Exception as e:
         print(f"Error inicializando el modelo: {e}")
