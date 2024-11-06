@@ -1,5 +1,12 @@
 flask==2.0.1
 flask-cors==3.0.10
 transformers==4.30.2
-torch==2.0.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1+cpu
 gunicorn==20.1.0
+numpy>=1.17
+tqdm
+requests
+packaging
+filelock
+regex
