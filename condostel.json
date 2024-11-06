@@ -1,0 +1,798 @@
+[
+    {
+        "question": "¿Cuál es el mejor momento del año para visitar Punta Cana?",
+        "answer": "El mejor momento para visitar Punta Cana es entre diciembre y abril, cuando el clima es más seco y agradable."
+    },
+    {
+        "question": "¿Cómo es el clima en Punta Cana durante el verano?",
+        "answer": "En verano, el clima en Punta Cana es cálido y húmedo, con temperaturas que rondan entre los 25 y 32 grados Celsius."
+    },
+    {
+        "question": "¿Cuáles son las playas más populares de Punta Cana?",
+        "answer": "Las playas más populares de Punta Cana incluyen Playa Bávaro, Playa Macao y Playa Arena Gorda."
+    },
+    {
+        "question": "¿Es seguro nadar en las playas de Punta Cana?",
+        "answer": "Sí, la mayoría de las playas son seguras para nadar, aunque se recomienda siempre prestar atención a las banderas de advertencia y las condiciones del mar."
+    },
+    {
+        "question": "¿Hay actividades de deportes acuáticos en Punta Cana?",
+        "answer": "Sí, en Punta Cana se pueden practicar deportes acuáticos como snorkel, buceo, paddleboard y kayak."
+    },
+    {
+        "question": "¿Cuál es la moneda oficial en Punta Cana?",
+        "answer": "La moneda oficial en Punta Cana es el peso dominicano (DOP), aunque el dólar estadounidense es ampliamente aceptado."
+    },
+    {
+        "question": "¿Puedo pagar con tarjeta de crédito en Punta Cana?",
+        "answer": "Sí, en la mayoría de los lugares turísticos aceptan tarjetas de crédito, especialmente en hoteles y restaurantes."
+    },
+    {
+        "question": "¿Qué opciones de transporte existen en Punta Cana?",
+        "answer": "En Punta Cana se puede utilizar taxi, servicio de transporte privado, autobuses locales y coches de alquiler para moverse por la zona."
+    },
+    {
+        "question": "¿Es necesario alquilar un coche en Punta Cana?",
+        "answer": "No es necesario alquilar un coche si planeas quedarte en un resort, pero puede ser conveniente para explorar la región."
+    },
+    {
+        "question": "¿Cuál es el aeropuerto principal en Punta Cana?",
+        "answer": "El Aeropuerto Internacional de Punta Cana (PUJ) es el principal aeropuerto y recibe la mayoría de los vuelos internacionales."
+    },
+    {
+        "question": "¿Qué puedo hacer en Punta Cana si llueve?",
+        "answer": "Si llueve, puedes disfrutar de actividades en interiores como spas, centros comerciales, museos locales o actividades culturales."
+    },
+    {
+        "question": "¿Cuánto dura el viaje desde el aeropuerto hasta los resorts de Punta Cana?",
+        "answer": "El trayecto desde el aeropuerto hasta los resorts suele durar entre 15 y 30 minutos, dependiendo de la ubicación."
+    },
+    {
+        "question": "¿Cuáles son los principales puntos turísticos de Punta Cana?",
+        "answer": "Algunos puntos turísticos son Isla Saona, Hoyo Azul, el parque ecológico Indigenous Eyes y el cenote de Hoyo Claro."
+    },
+    {
+        "question": "¿Puedo hacer excursiones a otras islas desde Punta Cana?",
+        "answer": "Sí, se pueden hacer excursiones a Isla Saona e Isla Catalina, que son destinos populares cercanos a Punta Cana."
+    },
+    {
+        "question": "¿Hay vida nocturna en Punta Cana?",
+        "answer": "Sí, Punta Cana cuenta con una animada vida nocturna en bares, discotecas y espectáculos en vivo, especialmente en la zona de los resorts."
+    },
+    {
+        "question": "¿Qué tipo de comida puedo encontrar en Punta Cana?",
+        "answer": "En Punta Cana puedes encontrar comida dominicana tradicional, mariscos frescos, y cocina internacional en muchos de sus restaurantes."
+    },
+    {
+        "question": "¿Cuál es el costo promedio de una comida en un restaurante en Punta Cana?",
+        "answer": "El costo promedio de una comida en un restaurante turístico puede ser de 10 a 30 dólares por persona, dependiendo del tipo de restaurante."
+    },
+    {
+        "question": "¿Es necesario dar propina en Punta Cana?",
+        "answer": "Dar propina es habitual en Punta Cana; generalmente se deja entre el 10% y el 15% del total de la cuenta."
+    },
+    {
+        "question": "¿Qué idiomas se hablan en Punta Cana?",
+        "answer": "El idioma oficial es el español, pero en las zonas turísticas muchas personas hablan inglés."
+    },
+    {
+        "question": "¿Es necesario saber español para visitar Punta Cana?",
+        "answer": "No es necesario, ya que en las zonas turísticas muchos locales hablan inglés y están acostumbrados a los turistas."
+    },
+    {
+        "question": "¿Hay opciones de turismo ecológico en Punta Cana?",
+        "answer": "Sí, hay varias opciones de turismo ecológico, como el Parque Ecológico Indigenous Eyes, donde puedes disfrutar de la naturaleza local."
+    },
+    {
+        "question": "¿Cuál es el código de vestimenta en los resorts de Punta Cana?",
+        "answer": "El código de vestimenta suele ser informal durante el día y casual elegante para cenas en algunos restaurantes de los resorts."
+    },
+    {
+        "question": "¿Hay cajeros automáticos disponibles en Punta Cana?",
+        "answer": "Sí, puedes encontrar cajeros automáticos en los resorts, centros comerciales y en el aeropuerto."
+    },
+    {
+        "question": "¿Qué souvenirs típicos puedo comprar en Punta Cana?",
+        "answer": "Algunos souvenirs típicos incluyen ron dominicano, café, ámbar, larimar y artesanías locales."
+    },
+    {
+        "question": "¿Es seguro visitar Punta Cana?",
+        "answer": "Sí, Punta Cana es generalmente seguro, especialmente en las áreas turísticas, pero es importante tomar precauciones básicas."
+    },
+    {
+        "question": "¿Cómo es el acceso a internet en Punta Cana?",
+        "answer": "La mayoría de los resorts y hoteles ofrecen WiFi gratuito o de pago, y hay algunos cafés y restaurantes con conexión gratuita."
+    },
+    {
+        "question": "¿Cuál es la mejor playa para ver el amanecer en Punta Cana?",
+        "answer": "Playa Bávaro es una excelente opción para ver el amanecer debido a su ubicación y vistas despejadas."
+    },
+    {
+        "question": "¿Qué actividades familiares se pueden hacer en Punta Cana?",
+        "answer": "Punta Cana ofrece actividades familiares como paseos en bote, parques acuáticos, y excursiones a playas y cenotes."
+    },
+    {
+        "question": "¿Dónde puedo hacer snorkel en Punta Cana?",
+        "answer": "Puedes hacer snorkel en Playa Bávaro, Isla Saona e Isla Catalina, donde hay arrecifes y vida marina diversa."
+    },
+    {
+        "question": "¿Cuánto cuesta hacer snorkel en Punta Cana?",
+        "answer": "Los tours de snorkel suelen costar entre 30 y 60 dólares por persona, dependiendo del lugar y la duración."
+    },
+    {
+        "question": "¿Dónde puedo encontrar mercados locales en Punta Cana?",
+        "answer": "Hay mercados locales en la zona de Bávaro y en áreas cercanas donde puedes comprar productos locales y souvenirs."
+    },
+    {
+        "question": "¿Qué debo llevar para unas vacaciones en Punta Cana?",
+        "answer": "Se recomienda llevar ropa ligera, traje de baño, protector solar, sombrero, repelente de insectos y un adaptador de enchufe."
+    },
+    {
+        "question": "¿Es Punta Cana un destino para luna de miel?",
+        "answer": "Sí, Punta Cana es muy popular para lunas de miel, gracias a sus resorts de lujo y playas paradisíacas."
+    },
+    {
+        "question": "¿Dónde puedo nadar con delfines en Punta Cana?",
+        "answer": "Puedes nadar con delfines en Dolphin Island Park o en Manatí Park, que ofrecen experiencias cercanas con estos animales."
+    },
+    {
+        "question": "¿Qué tan lejos está Punta Cana de Santo Domingo?",
+        "answer": "Punta Cana está a aproximadamente 200 km de Santo Domingo, lo que equivale a unas 2 horas y media en coche."
+    },
+    {
+        "question": "¿Es Punta Cana un buen destino para el buceo?",
+        "answer": "Sí, Punta Cana tiene varios puntos de buceo, como Isla Catalina y el Parque Marino La Caleta, ideales para explorar."
+    },
+    {
+        "question": "¿Dónde puedo tomar clases de kitesurf en Punta Cana?",
+        "answer": "En la Playa Macao hay varias escuelas de kitesurf que ofrecen clases para principiantes y avanzados."
+    },
+    {
+        "question": "¿Cuáles son los principales centros comerciales en Punta Cana?",
+        "answer": "Algunos centros comerciales populares son BlueMall Punta Cana, Palma Real Shopping Village y San Juan Shopping Center."
+    },
+    {
+        "question": "¿Qué medidas de salud debo tomar en Punta Cana?",
+        "answer": "Es recomendable usar repelente de insectos, beber agua embotellada y protegerse del sol con bloqueador solar."
+    },
+    {
+        "question": "¿Es necesario vacunarse para viajar a Punta Cana?",
+        "answer": "No se requieren vacunas obligatorias, aunque se recomiendan las vacunas contra hepatitis A y tétanos."
+    },
+    {
+        "question": "¿Cuáles son los tours más populares en Punta Cana?",
+        "answer": "Algunos tours populares incluyen excursiones a Isla Saona, Hoyo Azul y el Parque Ecológico Indigenous Eyes."
+    },
+    {
+        "question": "¿Dónde puedo disfrutar de un spa en Punta Cana?",
+        "answer": "Varios resorts en Punta Cana tienen spas, y también existen spas independientes, como Six Senses y Yhi Spa."
+    },
+    {
+        "question": "¿Es recomendable beber agua del grifo en Punta Cana?",
+        "answer": "No, se recomienda beber solo agua embotellada en Punta Cana para evitar problemas estomacales."
+    },
+    {
+        "question": "¿Cómo funciona el transporte público en Punta Cana?",
+        "answer": "El transporte público es limitado, y la mayoría de los turistas optan por taxis o transporte privado."
+    },
+    {
+        "question": "¿Hay áreas para acampar en Punta Cana?",
+        "answer": "No es común acampar en Punta Cana, ya que la mayoría de los visitantes se hospedan en resorts o hoteles."
+    },
+    {
+        "question": "¿Qué opciones de entretenimiento nocturno existen en Punta Cana?",
+        "answer": "Hay discotecas, bares y espectáculos en vivo en muchos resorts y en áreas cercanas a los hoteles."
+    },
+    {
+        "question": "¿Qué animales se pueden ver en la zona de Punta Cana?",
+        "answer": "En Punta Cana puedes ver fauna como iguanas, aves tropicales, peces de colores y tortugas marinas."
+    },
+    {
+        "question": "¿Es común el turismo de pesca en Punta Cana?",
+        "answer": "Sí, se organizan excursiones de pesca en alta mar, donde puedes capturar especies como el pez vela y el dorado."
+    },
+    {
+        "question": "¿Dónde puedo alquilar bicicletas en Punta Cana?",
+        "answer": "Algunos resorts ofrecen alquiler de bicicletas, y hay servicios en Playa Bávaro para recorrer la zona en bici."
+    },
+    {
+        "question": "¿Es obligatorio dejar propina en los restaurantes de Punta Cana?",
+        "answer": "No es obligatorio, pero se recomienda dejar un 10-15% como propina en agradecimiento al servicio."
+    },
+    {
+        "question": "¿Qué hace que Cap Cana sea un destino exclusivo en la República Dominicana?",
+        "answer": "Cap Cana es conocido por sus resorts de lujo, playas privadas, campos de golf de clase mundial y un puerto deportivo de alta calidad."
+    },
+    {
+        "question": "¿Cuál es la mejor playa en Cap Cana?",
+        "answer": "Playa Juanillo es una de las mejores playas en Cap Cana, conocida por sus aguas cristalinas y arena blanca."
+    },
+    {
+        "question": "¿Cuáles son las opciones de alojamiento en Cap Cana?",
+        "answer": "En Cap Cana, puedes hospedarte en resorts de lujo, hoteles boutique y villas privadas que ofrecen servicios de alta gama."
+    },
+    {
+        "question": "¿Se puede visitar Cap Cana sin estar alojado en un resort?",
+        "answer": "Sí, algunas áreas de Cap Cana están abiertas al público, pero otras pueden requerir reserva previa o acceso especial."
+    },
+    {
+        "question": "¿Cuáles son las actividades más populares en Cap Cana?",
+        "answer": "Las actividades incluyen deportes acuáticos, golf, paseos en yate, pesca deportiva y excursiones a la naturaleza."
+    },
+    {
+        "question": "¿Cómo es el puerto deportivo de Cap Cana?",
+        "answer": "El puerto deportivo de Cap Cana es un lugar de lujo que ofrece instalaciones para yates y actividades como pesca y paseos en barco."
+    },
+    {
+        "question": "¿Es Cap Cana un buen lugar para luna de miel?",
+        "answer": "Sí, Cap Cana es ideal para lunas de miel por su ambiente exclusivo, resorts románticos y paisajes paradisiacos."
+    },
+    {
+        "question": "¿Hay opciones de golf en Cap Cana?",
+        "answer": "Sí, Cap Cana alberga el campo de golf Punta Espada, uno de los mejores de la región, diseñado por Jack Nicklaus."
+    },
+    {
+        "question": "¿Puedo practicar pesca deportiva en Cap Cana?",
+        "answer": "Sí, Cap Cana es famoso por sus excursiones de pesca deportiva en aguas ricas en especies como el marlín y el pez vela."
+    },
+    {
+        "question": "¿Qué restaurantes recomendados hay en Cap Cana?",
+        "answer": "Algunos restaurantes recomendados son Mediterraneo, Blue Marlin y Api Beach, conocidos por sus platos gourmet y vistas al mar."
+    },
+    {
+        "question": "¿Cómo es el clima en Cap Cana durante el invierno?",
+        "answer": "El clima en invierno es cálido y seco, con temperaturas promedio entre 25 y 28 grados Celsius."
+    },
+    {
+        "question": "¿Cuál es el costo promedio para cenar en un restaurante en Cap Cana?",
+        "answer": "Cenar en un restaurante en Cap Cana puede costar entre 30 y 100 dólares por persona, dependiendo del lugar y el tipo de comida."
+    },
+    {
+        "question": "¿Cap Cana es adecuado para familias?",
+        "answer": "Sí, Cap Cana ofrece actividades familiares y resorts con programas para niños, ideales para vacaciones en familia."
+    },
+    {
+        "question": "¿Dónde puedo hacer snorkel en Cap Cana?",
+        "answer": "Hay oportunidades de snorkel en Playa Juanillo y en excursiones organizadas desde el puerto deportivo."
+    },
+    {
+        "question": "¿Es necesario alquilar un coche en Cap Cana?",
+        "answer": "No es necesario, ya que muchos resorts ofrecen transporte interno y Cap Cana cuenta con taxis y servicio de transporte privado."
+    },
+    {
+        "question": "¿Es posible visitar Isla Saona desde Cap Cana?",
+        "answer": "Sí, se pueden organizar excursiones en barco desde Cap Cana hasta Isla Saona."
+    },
+    {
+        "question": "¿Qué tiendas y boutiques hay en Cap Cana?",
+        "answer": "Cap Cana tiene varias boutiques de lujo y tiendas de regalos, especialmente en los resorts y en el puerto deportivo."
+    },
+    {
+        "question": "¿Cuál es el código de vestimenta en los resorts de Cap Cana?",
+        "answer": "Durante el día, el código es informal, pero para cenas y eventos especiales se recomienda vestimenta casual elegante."
+    },
+    {
+        "question": "¿Hay actividades nocturnas en Cap Cana?",
+        "answer": "Sí, algunos resorts y bares en Cap Cana ofrecen entretenimiento nocturno, aunque es más tranquilo en comparación con Punta Cana."
+    },
+    {
+        "question": "¿Qué es el parque ecológico Scape Park en Cap Cana?",
+        "answer": "Scape Park es un parque de aventura en Cap Cana con tirolesas, cuevas, cenotes y senderos naturales para explorar."
+    },
+    {
+        "question": "¿Se puede hacer senderismo en Cap Cana?",
+        "answer": "Sí, Scape Park y otras áreas naturales ofrecen opciones de senderismo para disfrutar de la naturaleza local."
+    },
+    {
+        "question": "¿Dónde puedo alquilar un yate en Cap Cana?",
+        "answer": "En el puerto deportivo de Cap Cana puedes alquilar yates para paseos privados o excursiones de pesca."
+    },
+    {
+        "question": "¿Qué especies marinas puedo ver en Cap Cana?",
+        "answer": "En Cap Cana puedes ver peces tropicales, mantarrayas y ocasionalmente tortugas marinas en excursiones de buceo y snorkel."
+    },
+    {
+        "question": "¿Cuál es el costo de un tour de pesca en Cap Cana?",
+        "answer": "Un tour de pesca en Cap Cana puede costar entre 150 y 500 dólares, dependiendo de la duración y el tipo de embarcación."
+    },
+    {
+        "question": "¿Qué opciones de spa hay en Cap Cana?",
+        "answer": "Los resorts en Cap Cana suelen tener spas que ofrecen masajes, tratamientos faciales y otros servicios de bienestar."
+    },
+    {
+        "question": "¿Es Cap Cana adecuado para personas que buscan relajación?",
+        "answer": "Sí, Cap Cana es perfecto para quienes buscan relajación, con playas tranquilas, spas y un ambiente exclusivo y calmado."
+    },
+    {
+        "question": "¿Hay playas privadas en Cap Cana?",
+        "answer": "Sí, muchos resorts tienen acceso exclusivo a playas privadas para sus huéspedes en Cap Cana."
+    },
+    {
+        "question": "¿Es fácil moverse por Cap Cana sin coche?",
+        "answer": "Sí, la mayoría de los resorts ofrecen transporte dentro de Cap Cana y existen servicios de taxis y coches privados."
+    },
+    {
+        "question": "¿Cuáles son los deportes acuáticos disponibles en Cap Cana?",
+        "answer": "Los deportes acuáticos incluyen snorkel, kayak, paddleboarding y buceo, especialmente en las áreas de playa y el puerto deportivo."
+    },
+    {
+        "question": "¿Qué días se celebra el mercado local en Cap Cana?",
+        "answer": "El mercado local en Cap Cana suele celebrarse los fines de semana, aunque depende de la temporada y eventos especiales."
+    },
+    {
+        "question": "¿Puedo bucear en Cap Cana sin experiencia previa?",
+        "answer": "Sí, varios operadores en el puerto deportivo ofrecen clases de buceo para principiantes con equipos y guías profesionales."
+    },
+    {
+        "question": "¿Es Cap Cana un buen destino para avistamiento de aves?",
+        "answer": "Sí, en Cap Cana puedes observar aves tropicales, especialmente en áreas naturales y parques ecológicos."
+    },
+    {
+        "question": "¿Hay actividades para parejas en Cap Cana?",
+        "answer": "Sí, Cap Cana ofrece actividades románticas como cenas privadas en la playa, spas de pareja y paseos en yate."
+    },
+    {
+        "question": "¿Puedo hacer turismo ecológico en Cap Cana?",
+        "answer": "Sí, el parque Scape Park ofrece opciones de turismo ecológico, con cuevas, cenotes y áreas de naturaleza preservada."
+    },
+    {
+        "question": "¿Es seguro nadar en las playas de Cap Cana?",
+        "answer": "Sí, las playas en Cap Cana son seguras para nadar, aunque es recomendable prestar atención a las señales de advertencia."
+    },
+    {
+        "question": "¿Cuál es la mejor época para visitar Cap Cana?",
+        "answer": "La mejor época para visitar Cap Cana es de diciembre a abril, cuando el clima es más seco y agradable."
+    },
+    {
+        "question": "¿Dónde puedo comprar souvenirs en Cap Cana?",
+        "answer": "Puedes comprar souvenirs en las tiendas de los resorts y en el puerto deportivo, que ofrecen artesanías y productos locales."
+    },
+    {
+        "question": "¿Es necesario dar propina en los restaurantes de Cap Cana?",
+        "answer": "No es obligatorio, pero es habitual dejar entre un 10% y 15% de propina en agradecimiento al servicio."
+    },
+    {
+        "question": "¿Qué tipos de eventos se celebran en Cap Cana?",
+        "answer": "En Cap Cana se celebran eventos exclusivos como bodas, conciertos y festivales, especialmente en resorts y áreas del puerto."
+    },
+    {
+        "question": "¿Puedo realizar excursiones de un día desde Cap Cana?",
+        "answer": "Sí, hay excursiones de un día a Isla Saona, Isla Catalina y otros destinos cercanos que salen desde Cap Cana."
+    },
+    {
+        "question": "¿Hay lugares para observar el atardecer en Cap Cana?",
+        "answer": "Sí, el puerto deportivo y Playa Juanillo son lugares perfectos para ver hermosos atardeceres en Cap Cana."
+    },
+    {
+        "question": "¿Qué requisitos necesito para alquilar un coche en Cap Cana?",
+        "answer": "Necesitas una licencia de conducir válida y una tarjeta de crédito; algunos lugares también pueden solicitar un pasaporte."
+    },
+    {
+        "question": "¿Hay opciones de transporte desde el aeropuerto a Cap Cana?",
+        "answer": "Sí, puedes reservar un transporte privado, tomar un taxi o usar el servicio de traslado de algunos resorts desde el aeropuerto de Punta Cana."
+    },
+    {
+        "question": "¿Es posible realizar bodas en Cap Cana?",
+        "answer": "Sí, muchos resorts en Cap Cana ofrecen servicios de organización de bodas en sus instalaciones, incluyendo ceremonias en la playa."
+    },
+    {
+        "question": "¿Qué excursiones acuáticas se pueden hacer en Cap Cana?",
+        "answer": "Se pueden hacer excursiones de snorkel, buceo, pesca y paseos en barco desde el puerto de Cap Cana."
+    },
+    {
+        "question": "¿Hay tiendas de conveniencia en Cap Cana?",
+        "answer": "Sí, algunos resorts y áreas del puerto deportivo tienen tiendas de conveniencia para comprar artículos básicos y snacks."
+    },
+    {
+        "question": "¿Qué opciones de vida nocturna hay en Cap Cana?",
+        "answer": "Cap Cana ofrece una vida nocturna tranquila, con bares y lounges en los resorts, además de algunos eventos nocturnos."
+    },
+    {
+        "question": "¿Es Cap Cana un destino pet-friendly?",
+        "answer": "Algunos resorts en Cap Cana aceptan mascotas, aunque es importante verificar las políticas específicas antes de viajar."
+    },
+    {
+        "question": "¿Hay bancos y cajeros automáticos en Cap Cana?",
+        "answer": "Sí, hay cajeros automáticos disponibles en algunos resorts y en áreas cercanas del puerto deportivo."
+    },
+    {
+        "question": "¿Qué servicios se ofrecen en el área de Fishing Lodge?",
+        "answer": "Fishing Lodge cuenta con servicios como piscina, gimnasio, restaurantes, acceso al puerto deportivo y seguridad 24 horas."
+    },
+    {
+        "question": "¿Es Fishing Lodge una buena opción para familias?",
+        "answer": "Sí, Fishing Lodge ofrece un ambiente seguro y tranquilo, ideal para familias con áreas de recreación y actividades para niños."
+    },
+    {
+        "question": "¿Hay restaurantes dentro de Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge cuenta con varios restaurantes que ofrecen desde comida local hasta opciones internacionales."
+    },
+    {
+        "question": "¿Qué opciones de entretenimiento nocturno existen en Fishing Lodge?",
+        "answer": "Hay bares y lounges donde se puede disfrutar de música en vivo y bebidas, aunque el ambiente es relajado y tranquilo."
+    },
+    {
+        "question": "¿Puedo acceder a la playa desde Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge tiene acceso cercano a varias playas, y algunos apartamentos ofrecen transporte hacia ellas."
+    },
+    {
+        "question": "¿Qué medidas de seguridad existen en Fishing Lodge?",
+        "answer": "Fishing Lodge cuenta con seguridad las 24 horas y acceso controlado, lo cual proporciona un ambiente seguro para los visitantes."
+    },
+    {
+        "question": "¿Es Fishing Lodge adecuado para parejas?",
+        "answer": "Sí, Fishing Lodge es ideal para parejas por su ambiente romántico, vistas al puerto y opciones de actividades privadas."
+    },
+    {
+        "question": "¿Hay opciones de alquiler de vehículos en Fishing Lodge?",
+        "answer": "Aunque no hay una agencia de alquiler de vehículos dentro de Fishing Lodge, puedes encontrar opciones cercanas en Cap Cana."
+    },
+    {
+        "question": "¿Puedo hacer compras de alimentos en Fishing Lodge?",
+        "answer": "Sí, hay tiendas de conveniencia y minimercados cercanos donde puedes comprar alimentos y artículos básicos."
+    },
+    {
+        "question": "¿Hay un gimnasio disponible en Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge cuenta con un gimnasio bien equipado disponible para los huéspedes y residentes."
+    },
+    {
+        "question": "¿Hay actividades de pesca disponibles en Fishing Lodge?",
+        "answer": "Sí, puedes organizar excursiones de pesca en alta mar desde el puerto deportivo cercano a Fishing Lodge."
+    },
+    {
+        "question": "¿Qué tipo de alojamiento hay en Fishing Lodge?",
+        "answer": "Fishing Lodge ofrece apartamentos y villas de lujo con vista al puerto, ideales para estadías cortas y largas."
+    },
+    {
+        "question": "¿Se pueden organizar eventos en Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge tiene espacios para eventos privados y reuniones, con servicios adicionales bajo solicitud."
+    },
+    {
+        "question": "¿Es posible practicar deportes acuáticos en Fishing Lodge?",
+        "answer": "Sí, desde el puerto deportivo puedes acceder a actividades como kayak, paddleboarding y excursiones de snorkel."
+    },
+    {
+        "question": "¿Cómo es la vista desde los apartamentos en Fishing Lodge?",
+        "answer": "Muchos apartamentos en Fishing Lodge ofrecen vistas espectaculares del puerto y de los alrededores de Cap Cana."
+    },
+    {
+        "question": "¿Es Fishing Lodge un lugar tranquilo para descansar?",
+        "answer": "Sí, Fishing Lodge es conocido por su ambiente tranquilo y relajado, ideal para descansar y desconectar."
+    },
+    {
+        "question": "¿Qué opciones de transporte hay desde Fishing Lodge al aeropuerto?",
+        "answer": "Puedes tomar un taxi o servicio de transporte privado desde Fishing Lodge hasta el Aeropuerto Internacional de Punta Cana."
+    },
+    {
+        "question": "¿Fishing Lodge ofrece servicios de spa?",
+        "answer": "Fishing Lodge no cuenta con un spa propio, pero existen opciones de spa en resorts cercanos dentro de Cap Cana."
+    },
+    {
+        "question": "¿Hay piscinas disponibles en Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge cuenta con varias piscinas para el disfrute de los huéspedes y residentes."
+    },
+    {
+        "question": "¿Es necesario reservar con anticipación en Fishing Lodge?",
+        "answer": "Sí, especialmente en temporada alta se recomienda reservar con anticipación para asegurar disponibilidad."
+    },
+    {
+        "question": "¿Fishing Lodge tiene acceso a internet?",
+        "answer": "Sí, Fishing Lodge ofrece acceso a internet para los huéspedes en áreas comunes y en los apartamentos."
+    },
+    {
+        "question": "¿Qué tan cerca está Fishing Lodge del centro de Cap Cana?",
+        "answer": "Fishing Lodge está ubicado en el corazón de Cap Cana, cerca de restaurantes, tiendas y el puerto deportivo."
+    },
+    {
+        "question": "¿Puedo hacer snorkel cerca de Fishing Lodge?",
+        "answer": "Sí, puedes hacer snorkel en playas cercanas y en áreas organizadas para esta actividad en Cap Cana."
+    },
+    {
+        "question": "¿Hay supermercados cerca de Fishing Lodge?",
+        "answer": "Sí, hay supermercados y tiendas de conveniencia cerca donde puedes adquirir productos básicos y alimentos."
+    },
+    {
+        "question": "¿Es Fishing Lodge adecuado para largas estadías?",
+        "answer": "Sí, Fishing Lodge es ideal para largas estadías por sus instalaciones completas y el ambiente cómodo y relajado."
+    },
+    {
+        "question": "¿Fishing Lodge ofrece servicio de limpieza para los apartamentos?",
+        "answer": "Sí, algunos apartamentos en Fishing Lodge ofrecen servicio de limpieza bajo solicitud y por un costo adicional."
+    },
+    {
+        "question": "¿Cuáles son las opciones de pago en Fishing Lodge?",
+        "answer": "Fishing Lodge acepta pagos con tarjeta de crédito, efectivo y transferencias bancarias, dependiendo de los términos de cada propiedad."
+    },
+    {
+        "question": "¿Fishing Lodge tiene áreas para niños?",
+        "answer": "Sí, hay áreas de juegos y piscinas adecuadas para niños en Fishing Lodge."
+    },
+    {
+        "question": "¿Es Fishing Lodge adecuado para el turismo de lujo?",
+        "answer": "Sí, Fishing Lodge es considerado una opción de lujo en Cap Cana, con servicios y amenidades exclusivas."
+    },
+    {
+        "question": "¿Puedo organizar una cena privada en Fishing Lodge?",
+        "answer": "Sí, algunos apartamentos y espacios en Fishing Lodge permiten la organización de cenas privadas bajo solicitud."
+    },
+    {
+        "question": "¿Cuál es la política de mascotas en Fishing Lodge?",
+        "answer": "La política de mascotas depende de cada apartamento en Fishing Lodge, por lo que es importante consultar antes de reservar."
+    },
+    {
+        "question": "¿Qué tipo de turistas suelen visitar Fishing Lodge?",
+        "answer": "Fishing Lodge atrae a turistas que buscan un ambiente exclusivo y tranquilo, incluyendo parejas, familias y viajeros de lujo."
+    },
+    {
+        "question": "¿Hay áreas de barbacoa en Fishing Lodge?",
+        "answer": "No es común encontrar áreas de barbacoa en Fishing Lodge, pero algunos apartamentos pueden permitir parrillas portátiles."
+    },
+    {
+        "question": "¿Qué medidas de limpieza se implementan en Fishing Lodge?",
+        "answer": "Fishing Lodge sigue altos estándares de limpieza, especialmente en áreas comunes y en los apartamentos disponibles para turistas."
+    },
+    {
+        "question": "¿Puedo reservar excursiones directamente en Fishing Lodge?",
+        "answer": "Sí, Fishing Lodge puede ayudar a coordinar excursiones locales a través de servicios de conserjería en la zona."
+    },
+    {
+        "question": "¿Fishing Lodge ofrece acceso a estacionamiento?",
+        "answer": "Sí, Fishing Lodge ofrece estacionamiento para los huéspedes, aunque puede requerir una reserva previa."
+    },
+    {
+        "question": "¿Qué opciones de comida hay cerca de Fishing Lodge?",
+        "answer": "Hay varios restaurantes cercanos que ofrecen cocina internacional, mariscos y comida local."
+    },
+    {
+        "question": "¿Fishing Lodge permite el ingreso de invitados?",
+        "answer": "Sí, pero los invitados deben registrarse en la entrada y respetar las políticas del lugar."
+    },
+    {
+        "question": "¿Es Fishing Lodge adecuado para trabajar de forma remota?",
+        "answer": "Sí, muchos apartamentos tienen internet estable y un ambiente tranquilo, ideal para trabajar remotamente."
+    },
+    {
+        "question": "¿Se pueden alquilar bicicletas en Fishing Lodge?",
+        "answer": "No directamente en Fishing Lodge, pero hay opciones cercanas para alquilar bicicletas y recorrer Cap Cana."
+    },
+    {
+        "question": "¿Fishing Lodge tiene servicio de habitaciones?",
+        "answer": "No, Fishing Lodge no cuenta con servicio de habitaciones, pero algunos apartamentos ofrecen servicios adicionales bajo solicitud."
+    },
+    {
+        "question": "¿Qué actividades al aire libre puedo hacer en Fishing Lodge?",
+        "answer": "Puedes disfrutar de paseos en el puerto, actividades acuáticas y relajarte en las piscinas y áreas comunes."
+    },
+    {
+        "question": "¿Es Fishing Lodge un buen lugar para hacer fotos?",
+        "answer": "Sí, el entorno de Fishing Lodge y sus vistas al puerto son ideales para fotos memorables."
+    },
+    {
+        "question": "¿Qué tipo de decoraciones tienen los apartamentos en Fishing Lodge?",
+        "answer": "Los apartamentos suelen estar decorados en estilo contemporáneo, con detalles de lujo y mobiliario de alta calidad."
+    },
+    {
+        "question": "¿Fishing Lodge ofrece eventos para los huéspedes?",
+        "answer": "Algunos eventos pueden organizarse en áreas comunes, pero no es común que haya eventos organizados regularmente."
+    },
+    {
+        "question": "¿Hay clínicas o farmacias cerca de Fishing Lodge?",
+        "answer": "Sí, hay farmacias y clínicas cercanas para atender cualquier necesidad médica de los huéspedes."
+    },
+    {
+        "question": "¿Cuál es el horario de check-in y check-out en Fishing Lodge?",
+        "answer": "El horario de check-in suele ser a las 3:00 pm y el check-out a las 12:00 pm, aunque depende de cada propiedad."
+    },
+    {
+        "question": "¿Puedo llevar mi propio equipo de snorkel a Fishing Lodge?",
+        "answer": "Sí, puedes llevar tu propio equipo de snorkel para explorar las áreas de playa y el puerto."
+    },
+    {
+        "question": "¿Qué eventos locales puedo visitar cerca de Fishing Lodge?",
+        "answer": "Cerca de Fishing Lodge puedes disfrutar de eventos como mercados locales, ferias y exhibiciones en Cap Cana."
+    },
+    {
+        "question": "¿Hay acceso a cajeros automáticos en Fishing Lodge?",
+        "answer": "No hay cajeros automáticos en Fishing Lodge, pero puedes encontrarlos en áreas cercanas en Cap Cana."
+    },
+    {
+        "question": "¿Cómo enciendo el aire acondicionado en el apartamento?",
+        "answer": "Para encender el aire acondicionado, utiliza el control remoto que está en la mesita de noche. Presiona el botón de encendido y ajusta la temperatura con las flechas."
+    },
+    {
+        "question": "¿Cuál es la temperatura recomendada para el aire acondicionado?",
+        "answer": "La temperatura recomendada para mantener el apartamento cómodo es entre 22 y 24 grados Celsius."
+    },
+    {
+        "question": "¿El apartamento tiene WiFi y cuál es la clave?",
+        "answer": "Sí, el apartamento tiene WiFi. La red se llama 'FishingLodge5061' y la clave es 'StayCapCana2024'."
+    },
+    {
+        "question": "¿Hay toallas de playa disponibles en el apartamento?",
+        "answer": "Sí, el apartamento cuenta con cuatro toallas de playa que puedes utilizar durante tu estancia."
+    },
+    {
+        "question": "¿Cómo uso la plancha en el apartamento?",
+        "answer": "La plancha está guardada en el armario. Conéctala, ajusta la temperatura según el tipo de tela y asegúrate de desenchufarla después de usarla."
+    },
+    {
+        "question": "¿Cuántos juegos de ropa de cama están disponibles?",
+        "answer": "Hay dos juegos de ropa de cama completos disponibles en el apartamento, ubicados en el armario principal."
+    },
+    {
+        "question": "¿Con qué frecuencia se cambian las sábanas y toallas?",
+        "answer": "Para estancias cortas, las sábanas y toallas no se cambian automáticamente, pero puedes solicitar un cambio por un costo adicional."
+    },
+    {
+        "question": "¿Hay televisión por cable en el apartamento?",
+        "answer": "Sí, el apartamento tiene televisión por cable con canales locales e internacionales. Utiliza el control remoto para acceder a la guía de canales."
+    },
+    {
+        "question": "¿Cómo puedo ver Netflix en la televisión?",
+        "answer": "La televisión está equipada con un Smart TV que incluye aplicaciones como Netflix. Solo inicia sesión con tu cuenta."
+    },
+    {
+        "question": "¿El apartamento tiene cafetera?",
+        "answer": "Sí, hay una cafetera de cápsulas en la cocina. Puedes encontrar algunas cápsulas de cortesía en la despensa."
+    },
+    {
+        "question": "¿Hay lavadora y secadora en el apartamento?",
+        "answer": "Sí, el apartamento tiene una lavadora y una secadora en el armario de la cocina, junto con detergente de cortesía."
+    },
+    {
+        "question": "¿Cómo utilizo el microondas?",
+        "answer": "El microondas es sencillo de usar. Presiona el botón de encendido, ajusta el tiempo de cocción y presiona 'Start'."
+    },
+    {
+        "question": "¿Hay una caja fuerte en el apartamento?",
+        "answer": "Sí, hay una caja fuerte en el armario principal. Para configurar tu código, sigue las instrucciones que están en la puerta del armario."
+    },
+    {
+        "question": "¿El apartamento tiene servicio de limpieza?",
+        "answer": "El servicio de limpieza no está incluido en la estancia, pero se puede solicitar como servicio adicional por un costo extra."
+    },
+    {
+        "question": "¿Hay utensilios de cocina disponibles?",
+        "answer": "Sí, el apartamento está equipado con sartenes, ollas, platos, vasos y cubiertos para que puedas cocinar y comer cómodamente."
+    },
+    {
+        "question": "¿Hay un secador de pelo en el apartamento?",
+        "answer": "Sí, el apartamento tiene un secador de pelo, que está guardado en el baño principal."
+    },
+    {
+        "question": "¿Cuántas toallas de baño hay disponibles?",
+        "answer": "Hay cuatro toallas de baño en el apartamento, ubicadas en el baño y en el armario de la habitación."
+    },
+    {
+        "question": "¿Cómo funciona la ducha?",
+        "answer": "La ducha tiene un control giratorio. Gira hacia la derecha para agua caliente y hacia la izquierda para agua fría."
+    },
+    {
+        "question": "¿Hay papel higiénico y productos de baño de cortesía?",
+        "answer": "Sí, al llegar encontrarás papel higiénico, jabón y champú de cortesía. Para estancias largas, puedes comprar suministros adicionales."
+    },
+    {
+        "question": "¿A qué hora debo hacer el check-out?",
+        "answer": "El check-out es a las 12:00 pm. Por favor, asegúrate de dejar las llaves en el buzón de la entrada."
+    },
+    {
+        "question": "¿Hay algún lugar cercano donde pueda comprar alimentos?",
+        "answer": "Sí, hay un supermercado a unos 10 minutos en coche desde Fishing Lodge donde puedes comprar alimentos y otros suministros."
+    },
+    {
+        "question": "¿Hay algún restaurante cerca del apartamento?",
+        "answer": "Sí, hay varios restaurantes cerca de Fishing Lodge que ofrecen opciones de mariscos, comida internacional y local."
+    },
+    {
+        "question": "¿Puedo recibir visitas en el apartamento?",
+        "answer": "Sí, puedes recibir visitas, pero todos los invitados deben registrarse en la recepción por motivos de seguridad."
+    },
+    {
+        "question": "¿Hay estacionamiento disponible para el apartamento?",
+        "answer": "Sí, el apartamento incluye un espacio de estacionamiento asignado. Consulta en recepción para más detalles."
+    },
+    {
+        "question": "¿Cómo puedo contactar a alguien si tengo problemas en el apartamento?",
+        "answer": "Para cualquier problema, puedes contactar al servicio de soporte al cliente llamando al número proporcionado en la guía de bienvenida."
+    },
+    {
+        "question": "¿Hay repelente de insectos en el apartamento?",
+        "answer": "No se incluye repelente de insectos, pero puedes adquirirlo en las tiendas cercanas."
+    },
+    {
+        "question": "¿El apartamento tiene balcón?",
+        "answer": "Sí, el apartamento tiene un balcón con vistas al puerto, equipado con sillas para relajarte."
+    },
+    {
+        "question": "¿Es seguro beber el agua del grifo en el apartamento?",
+        "answer": "No se recomienda beber el agua del grifo. Hay agua embotellada en la cocina para tu consumo."
+    },
+    {
+        "question": "¿El apartamento cuenta con aire acondicionado en todas las habitaciones?",
+        "answer": "Sí, el apartamento tiene aire acondicionado en todas las habitaciones para tu comodidad."
+    },
+    {
+        "question": "¿Hay servicios de lavandería cerca del apartamento?",
+        "answer": "Sí, si necesitas servicios adicionales de lavandería, hay opciones cercanas en Cap Cana."
+    },
+    {
+        "question": "¿Puedo fumar en el apartamento?",
+        "answer": "No, el apartamento es libre de humo. Se permite fumar únicamente en el balcón."
+    },
+    {
+        "question": "¿Hay piscina en el edificio de Fishing Lodge?",
+        "answer": "Sí, los huéspedes tienen acceso a las piscinas del edificio. Se encuentran en la planta baja, cerca del lobby."
+    },
+    {
+        "question": "¿Hay alguna norma sobre el ruido en el apartamento?",
+        "answer": "Sí, se pide a los huéspedes que mantengan un nivel bajo de ruido, especialmente en las horas de la noche para respetar a los vecinos."
+    },
+    {
+        "question": "¿Dónde puedo encontrar instrucciones para el televisor?",
+        "answer": "Las instrucciones para el televisor se encuentran en la guía de bienvenida, que está sobre la mesa de la sala."
+    },
+    {
+        "question": "¿El apartamento tiene ventiladores de techo?",
+        "answer": "No, el apartamento no cuenta con ventiladores de techo, pero el aire acondicionado en cada habitación mantiene el ambiente fresco."
+    },
+    {
+        "question": "¿Hay paraguas disponibles en el apartamento?",
+        "answer": "No hay paraguas en el apartamento, pero puedes comprar uno en las tiendas cercanas si es necesario."
+    },
+    {
+        "question": "¿El apartamento cuenta con plancha para el pelo?",
+        "answer": "No, el apartamento solo dispone de una plancha para la ropa. No se incluye plancha para el pelo."
+    },
+    {
+        "question": "¿Hay libros o juegos de mesa en el apartamento?",
+        "answer": "Sí, encontrarás algunos libros y juegos de mesa en la sala, disponibles para tu entretenimiento."
+    },
+    {
+        "question": "¿Se permite traer mascotas al apartamento?",
+        "answer": "No se permiten mascotas en el apartamento para garantizar la comodidad de todos los huéspedes."
+    },
+    {
+        "question": "¿El apartamento tiene algún tipo de calefacción?",
+        "answer": "No, el apartamento no cuenta con calefacción, pero el clima en Cap Cana suele ser cálido durante todo el año."
+    },
+    {
+        "question": "¿Hay detector de humo en el apartamento?",
+        "answer": "Sí, el apartamento está equipado con detectores de humo para garantizar la seguridad de los huéspedes."
+    },
+    {
+        "question": "¿Hay algún lugar donde pueda colgar mi ropa mojada?",
+        "answer": "Puedes colgar tu ropa mojada en el balcón o usar el tendedero que está en el armario del baño."
+    },
+    {
+        "question": "¿El apartamento tiene teléfono fijo?",
+        "answer": "No, el apartamento no cuenta con teléfono fijo, pero puedes usar tu móvil o el WiFi para hacer llamadas."
+    },
+    {
+        "question": "¿Hay algún cargo adicional por el uso de electricidad?",
+        "answer": "No, el uso de electricidad está incluido en el precio del alquiler sin cargos adicionales."
+    },
+    {
+        "question": "¿Dónde están las bolsas de basura adicionales?",
+        "answer": "Las bolsas de basura adicionales se encuentran en el armario bajo el fregadero de la cocina."
+    },
+    {
+        "question": "¿Cuál es el proceso de check-out?",
+        "answer": "Para el check-out, deja las llaves en el buzón y asegúrate de que todas las luces y el aire acondicionado estén apagados."
+    },
+    {
+        "question": "¿El apartamento cuenta con detectores de monóxido de carbono?",
+        "answer": "No, el apartamento no cuenta con detectores de monóxido de carbono, pero tiene detectores de humo para mayor seguridad."
+    },
+    {
+        "question": "¿Dónde puedo dejar mis maletas si tengo que hacer check-out temprano?",
+        "answer": "Puedes consultar en recepción si es posible guardar tus maletas por algunas horas después del check-out."
+    },
+    {
+        "question": "¿El apartamento tiene cortinas blackout?",
+        "answer": "Sí, el apartamento está equipado con cortinas blackout en las habitaciones para bloquear la luz."
+    },
+    {
+        "question": "¿Qué debo hacer si hay una emergencia durante mi estancia?",
+        "answer": "En caso de emergencia, llama al número de contacto de emergencia proporcionado en la guía de bienvenida o dirígete a recepción."
+    }
+]
