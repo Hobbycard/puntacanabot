@@ -73,4 +73,27 @@ def chat():
         question = data.get('question', '')
         
         if not question:
-            return jsonif
+            return jsonify({'error': 'No se proporcionó ninguna pregunta'}), 400
+        
+        # Buscar la mejor respuesta
+        mejor_score = -float('inf')
+        mejor_respuesta = None
+        
+        for item in dataset:
+            score = calculate_model_score(question, item["question"])
+            if score > mejor_score:
+                mejor_score = score
+                mejor_respuesta = item["answer"]
+
+        if mejor_score > 0.8:
+            return jsonify({
+                'answer': mejor_respuesta,
+                'status': 'success'
+            })
+        else:
+            return jsonify({
+                'answer': "Lo siento, no tengo información específica sobre eso. ¿Podrías reformular tu pregunta?",
+                'status': 'no_match'
+            })
+
+    ex
